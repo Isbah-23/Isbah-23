@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 ### Languages I'm learning:
 ![C](https://img.shields.io/badge/C-212F3D?style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-909497?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
