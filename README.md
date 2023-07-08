@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm @Isbah-23. I'm a student of CS currently studying at <b>FAST-NUCES</b>
 <!--
 **Isbah-23/Isbah-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -11,4 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I'm learning C/C++/Python Programming Languages
+### Languages I'm learning:
+![C](https://img.shields.io/badge/C-212F3D?style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-909497?style=for-the-badge&logo=python&logoColor=white)
