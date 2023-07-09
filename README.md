@@ -1,7 +1,8 @@
 <div align="center">
 <h1>A Brief Introduction 👋</h1>
 Hello! My name is Isbah Malik. I am currently a student at <b>FAST-NUCES</b>, Lahore.
-## 💻 My Tech Stack:
+<be>
+<h2> 💻 My Tech Stack:</h2>
 
 ![C](https://img.shields.io/badge/C-4B677C.svg?style=for-the-badge&logo&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/C++-98486D.svg?style=for-the-badge&logo=C++&logoColor=%23F7DF1E)
