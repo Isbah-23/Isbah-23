@@ -1,7 +1,7 @@
 <div align="center">
   <h1>A Brief Introduction 👋</h1>
-  <h3>Hello! My name is Isbah Malik. I am currently a student at FAST-NUCES, Lahore. </h3>
-  <p> I have always been interested in and fascinated by computers which has led me to pursue computer science as my major.</p>
+  <h3>Hello! My name is Isbah Malik. </h3>
+  <p> I am currently a student of BSCS (3rd Year) at FAST-NUCES, Lahore. I have always been interested in and fascinated by computers which has led me to pursue computer science as my major.</p>
   <br>
   <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=Isbah-23&label=Profile%20views&color=0e75b6&style=flat" alt="Isbah-23" /> 
