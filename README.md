@@ -51,10 +51,10 @@
   </a>
 </p>
 
-- Engines and Frameworks
+- Engine
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,laravel,django" />
+    <img src="https://skillicons.dev/icons?i=unity" />
   </a>
 </p>
 
