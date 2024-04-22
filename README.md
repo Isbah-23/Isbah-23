@@ -77,7 +77,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Isbah-23&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" alt="Isbah's GitHub stats">
     <br>
-    <a href="https://git.io/streak-stats">
+    <a href="https://streak-stats.demolab.com/?user=Isbah-23&theme=tokyonight">
         <img src="https://streak-stats.demolab.com/?user=Isbah-23&theme=tokyonight" alt="GitHub Streak">
     </a>
 </div>
