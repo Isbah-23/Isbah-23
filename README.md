@@ -32,7 +32,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/isbahmalik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isbahmalik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isbahmalik" height="30" width="40" /></a>
 </p>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
